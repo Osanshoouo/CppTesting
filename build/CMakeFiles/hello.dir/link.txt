@@ -1,0 +1,1 @@
+/nix/store/sqlnjj8c3n3si3sjnadhdbcwgrk97g2w-clang-wrapper-21.1.2/bin/clang++ -Xlinker --dependency-file=CMakeFiles/hello.dir/link.d CMakeFiles/hello.dir/HelloWorld.cxx.o -o hello
